@@ -13,5 +13,5 @@ SEBUAH TOOLS DDOS SIMPLE YANG DIBUAT OLEH POLOSS
 ## Installation
 ```bash
 git clone https://github.com/O99099O/DDOS_SAMP_ALL_METODEV2
-cd DDOS_SAMP_ALL_METODE
+cd DDOS_SAMP_ALL_METODEV2
 python3 Poloss.py
